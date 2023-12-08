@@ -1,4 +1,3 @@
-import sys
 file = open("input.txt")
 
 def part_one():
